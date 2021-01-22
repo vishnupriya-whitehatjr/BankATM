@@ -4,4 +4,4 @@
 #### Trace path using cd name for changing directory.
 
 #### Output:  
-<img width="262" src="Screenshot 2021-01-14 at 11 30 05 PM" src="https://user-images.githubusercontent.com/59869563/104707333-4579cb80-5742-11eb-829b-0a2603059e53.png">
+<img src="https://user-images.githubusercontent.com/59869563/104707333-4579cb80-5742-11eb-829b-0a2603059e53.png">
